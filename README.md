@@ -1,5 +1,4 @@
-# CodeRageXII-Brasil
-CodeRage XII Brasil: 13-14-15 de Março
+# CodeRage XII Brasil: 13-14-15 de Março
 
 É hora da sua conferência de desenvolvedores online preferida: CodeRage. Este ano para CodeRage XII estamos adicionando mais plataformas, mais tecnologia e mais aprendizado!
 
