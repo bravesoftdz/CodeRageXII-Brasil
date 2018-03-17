@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{402FE850-3A74-4237-9F63-CF3EDDAE7EE3}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Exemplo01.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\Exemplo02\Exemplo02.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\Exemplo03\Exemplo03.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\Exemplo04\Exemplo04.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Exemplo01">
+        <MSBuild Projects="Exemplo01.dproj"/>
+    </Target>
+    <Target Name="Exemplo01:Clean">
+        <MSBuild Projects="Exemplo01.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Exemplo01:Make">
+        <MSBuild Projects="Exemplo01.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Exemplo02">
+        <MSBuild Projects="..\Exemplo02\Exemplo02.dproj"/>
+    </Target>
+    <Target Name="Exemplo02:Clean">
+        <MSBuild Projects="..\Exemplo02\Exemplo02.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Exemplo02:Make">
+        <MSBuild Projects="..\Exemplo02\Exemplo02.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Exemplo03">
+        <MSBuild Projects="..\Exemplo03\Exemplo03.dproj"/>
+    </Target>
+    <Target Name="Exemplo03:Clean">
+        <MSBuild Projects="..\Exemplo03\Exemplo03.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Exemplo03:Make">
+        <MSBuild Projects="..\Exemplo03\Exemplo03.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Exemplo04">
+        <MSBuild Projects="..\Exemplo04\Exemplo04.dproj"/>
+    </Target>
+    <Target Name="Exemplo04:Clean">
+        <MSBuild Projects="..\Exemplo04\Exemplo04.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Exemplo04:Make">
+        <MSBuild Projects="..\Exemplo04\Exemplo04.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Exemplo01;Exemplo02;Exemplo03;Exemplo04"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Exemplo01:Clean;Exemplo02:Clean;Exemplo03:Clean;Exemplo04:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Exemplo01:Make;Exemplo02:Make;Exemplo03:Make;Exemplo04:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
