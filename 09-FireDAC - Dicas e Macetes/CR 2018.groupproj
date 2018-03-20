@@ -1,0 +1,288 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{3B3F3F85-B731-4304-B852-B46544420D92}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="01-FDConnection Comandos SQL\FDConnectionComandosSQL.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="02-FDConnection Tracing and Monitoring\FDConnectionTracingMonitoring.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="03-FDConnectio Metadata\FDConnectionMetadata.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="04-FDConnection AutoRecovery\FDConnectionAutoRecovery.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="05-Datasets Ordenacao\DataSetOrdenacao.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="06-Datasets Aggregates\DataSetAggregates.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="07-Datasets Macros\DataSetMacros.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="08-Controle de Transações 1\Transacao_01.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="09-Controle de Transações 2\Transacao_02.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="10-Exceptions Unified\ExceptionsUnified.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="11-Exception Simples\ExceptionsSimples.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="12-Exceptions View\ExceptionsView.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="13-Exceptions FDSchemeAdapter\Project2\ExceptionFDSchemeAdapter.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="14-Command Batches\CommandBatches.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="15-Array DML\ArrayDML.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Pooling\Pooling.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="16-Asynchronous Command\AsynchronousCommand.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="17-Data Type Unification\DataTypeUnification.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="18-SQL Dialect Abstraction\SqlDialectAbstraction.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="EscapeFunctions\EscapeFunctions.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="19-LocalSQL\LocalSQL.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="VSE\Demo\VSE.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="FDConnectionComandosSQL">
+        <MSBuild Projects="01-FDConnection Comandos SQL\FDConnectionComandosSQL.dproj"/>
+    </Target>
+    <Target Name="FDConnectionComandosSQL:Clean">
+        <MSBuild Projects="01-FDConnection Comandos SQL\FDConnectionComandosSQL.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FDConnectionComandosSQL:Make">
+        <MSBuild Projects="01-FDConnection Comandos SQL\FDConnectionComandosSQL.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FDConnectionTracingMonitoring">
+        <MSBuild Projects="02-FDConnection Tracing and Monitoring\FDConnectionTracingMonitoring.dproj"/>
+    </Target>
+    <Target Name="FDConnectionTracingMonitoring:Clean">
+        <MSBuild Projects="02-FDConnection Tracing and Monitoring\FDConnectionTracingMonitoring.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FDConnectionTracingMonitoring:Make">
+        <MSBuild Projects="02-FDConnection Tracing and Monitoring\FDConnectionTracingMonitoring.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FDConnectionMetadata">
+        <MSBuild Projects="03-FDConnectio Metadata\FDConnectionMetadata.dproj"/>
+    </Target>
+    <Target Name="FDConnectionMetadata:Clean">
+        <MSBuild Projects="03-FDConnectio Metadata\FDConnectionMetadata.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FDConnectionMetadata:Make">
+        <MSBuild Projects="03-FDConnectio Metadata\FDConnectionMetadata.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FDConnectionAutoRecovery">
+        <MSBuild Projects="04-FDConnection AutoRecovery\FDConnectionAutoRecovery.dproj"/>
+    </Target>
+    <Target Name="FDConnectionAutoRecovery:Clean">
+        <MSBuild Projects="04-FDConnection AutoRecovery\FDConnectionAutoRecovery.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FDConnectionAutoRecovery:Make">
+        <MSBuild Projects="04-FDConnection AutoRecovery\FDConnectionAutoRecovery.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DataSetOrdenacao">
+        <MSBuild Projects="05-Datasets Ordenacao\DataSetOrdenacao.dproj"/>
+    </Target>
+    <Target Name="DataSetOrdenacao:Clean">
+        <MSBuild Projects="05-Datasets Ordenacao\DataSetOrdenacao.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DataSetOrdenacao:Make">
+        <MSBuild Projects="05-Datasets Ordenacao\DataSetOrdenacao.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DataSetAggregates">
+        <MSBuild Projects="06-Datasets Aggregates\DataSetAggregates.dproj"/>
+    </Target>
+    <Target Name="DataSetAggregates:Clean">
+        <MSBuild Projects="06-Datasets Aggregates\DataSetAggregates.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DataSetAggregates:Make">
+        <MSBuild Projects="06-Datasets Aggregates\DataSetAggregates.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DataSetMacros">
+        <MSBuild Projects="07-Datasets Macros\DataSetMacros.dproj"/>
+    </Target>
+    <Target Name="DataSetMacros:Clean">
+        <MSBuild Projects="07-Datasets Macros\DataSetMacros.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DataSetMacros:Make">
+        <MSBuild Projects="07-Datasets Macros\DataSetMacros.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Transacao_01">
+        <MSBuild Projects="08-Controle de Transações 1\Transacao_01.dproj"/>
+    </Target>
+    <Target Name="Transacao_01:Clean">
+        <MSBuild Projects="08-Controle de Transações 1\Transacao_01.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Transacao_01:Make">
+        <MSBuild Projects="08-Controle de Transações 1\Transacao_01.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Transacao_02">
+        <MSBuild Projects="09-Controle de Transações 2\Transacao_02.dproj"/>
+    </Target>
+    <Target Name="Transacao_02:Clean">
+        <MSBuild Projects="09-Controle de Transações 2\Transacao_02.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Transacao_02:Make">
+        <MSBuild Projects="09-Controle de Transações 2\Transacao_02.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ExceptionsUnified">
+        <MSBuild Projects="10-Exceptions Unified\ExceptionsUnified.dproj"/>
+    </Target>
+    <Target Name="ExceptionsUnified:Clean">
+        <MSBuild Projects="10-Exceptions Unified\ExceptionsUnified.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ExceptionsUnified:Make">
+        <MSBuild Projects="10-Exceptions Unified\ExceptionsUnified.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ExceptionsSimples">
+        <MSBuild Projects="11-Exception Simples\ExceptionsSimples.dproj"/>
+    </Target>
+    <Target Name="ExceptionsSimples:Clean">
+        <MSBuild Projects="11-Exception Simples\ExceptionsSimples.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ExceptionsSimples:Make">
+        <MSBuild Projects="11-Exception Simples\ExceptionsSimples.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ExceptionsView">
+        <MSBuild Projects="12-Exceptions View\ExceptionsView.dproj"/>
+    </Target>
+    <Target Name="ExceptionsView:Clean">
+        <MSBuild Projects="12-Exceptions View\ExceptionsView.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ExceptionsView:Make">
+        <MSBuild Projects="12-Exceptions View\ExceptionsView.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ExceptionFDSchemeAdapter">
+        <MSBuild Projects="13-Exceptions FDSchemeAdapter\Project2\ExceptionFDSchemeAdapter.dproj"/>
+    </Target>
+    <Target Name="ExceptionFDSchemeAdapter:Clean">
+        <MSBuild Projects="13-Exceptions FDSchemeAdapter\Project2\ExceptionFDSchemeAdapter.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ExceptionFDSchemeAdapter:Make">
+        <MSBuild Projects="13-Exceptions FDSchemeAdapter\Project2\ExceptionFDSchemeAdapter.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="CommandBatches">
+        <MSBuild Projects="14-Command Batches\CommandBatches.dproj"/>
+    </Target>
+    <Target Name="CommandBatches:Clean">
+        <MSBuild Projects="14-Command Batches\CommandBatches.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CommandBatches:Make">
+        <MSBuild Projects="14-Command Batches\CommandBatches.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ArrayDML">
+        <MSBuild Projects="15-Array DML\ArrayDML.dproj"/>
+    </Target>
+    <Target Name="ArrayDML:Clean">
+        <MSBuild Projects="15-Array DML\ArrayDML.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ArrayDML:Make">
+        <MSBuild Projects="15-Array DML\ArrayDML.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Pooling">
+        <MSBuild Projects="Pooling\Pooling.dproj"/>
+    </Target>
+    <Target Name="Pooling:Clean">
+        <MSBuild Projects="Pooling\Pooling.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Pooling:Make">
+        <MSBuild Projects="Pooling\Pooling.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="AsynchronousCommand">
+        <MSBuild Projects="16-Asynchronous Command\AsynchronousCommand.dproj"/>
+    </Target>
+    <Target Name="AsynchronousCommand:Clean">
+        <MSBuild Projects="16-Asynchronous Command\AsynchronousCommand.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AsynchronousCommand:Make">
+        <MSBuild Projects="16-Asynchronous Command\AsynchronousCommand.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DataTypeUnification">
+        <MSBuild Projects="17-Data Type Unification\DataTypeUnification.dproj"/>
+    </Target>
+    <Target Name="DataTypeUnification:Clean">
+        <MSBuild Projects="17-Data Type Unification\DataTypeUnification.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DataTypeUnification:Make">
+        <MSBuild Projects="17-Data Type Unification\DataTypeUnification.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SqlDialectAbstraction">
+        <MSBuild Projects="18-SQL Dialect Abstraction\SqlDialectAbstraction.dproj"/>
+    </Target>
+    <Target Name="SqlDialectAbstraction:Clean">
+        <MSBuild Projects="18-SQL Dialect Abstraction\SqlDialectAbstraction.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SqlDialectAbstraction:Make">
+        <MSBuild Projects="18-SQL Dialect Abstraction\SqlDialectAbstraction.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="EscapeFunctions">
+        <MSBuild Projects="EscapeFunctions\EscapeFunctions.dproj"/>
+    </Target>
+    <Target Name="EscapeFunctions:Clean">
+        <MSBuild Projects="EscapeFunctions\EscapeFunctions.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EscapeFunctions:Make">
+        <MSBuild Projects="EscapeFunctions\EscapeFunctions.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="LocalSQL">
+        <MSBuild Projects="19-LocalSQL\LocalSQL.dproj"/>
+    </Target>
+    <Target Name="LocalSQL:Clean">
+        <MSBuild Projects="19-LocalSQL\LocalSQL.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="LocalSQL:Make">
+        <MSBuild Projects="19-LocalSQL\LocalSQL.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="VSE">
+        <MSBuild Projects="VSE\Demo\VSE.dproj"/>
+    </Target>
+    <Target Name="VSE:Clean">
+        <MSBuild Projects="VSE\Demo\VSE.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="VSE:Make">
+        <MSBuild Projects="VSE\Demo\VSE.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="FDConnectionComandosSQL;FDConnectionTracingMonitoring;FDConnectionMetadata;FDConnectionAutoRecovery;DataSetOrdenacao;DataSetAggregates;DataSetMacros;Transacao_01;Transacao_02;ExceptionsUnified;ExceptionsSimples;ExceptionsView;ExceptionFDSchemeAdapter;CommandBatches;ArrayDML;Pooling;AsynchronousCommand;DataTypeUnification;SqlDialectAbstraction;EscapeFunctions;LocalSQL;VSE"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="FDConnectionComandosSQL:Clean;FDConnectionTracingMonitoring:Clean;FDConnectionMetadata:Clean;FDConnectionAutoRecovery:Clean;DataSetOrdenacao:Clean;DataSetAggregates:Clean;DataSetMacros:Clean;Transacao_01:Clean;Transacao_02:Clean;ExceptionsUnified:Clean;ExceptionsSimples:Clean;ExceptionsView:Clean;ExceptionFDSchemeAdapter:Clean;CommandBatches:Clean;ArrayDML:Clean;Pooling:Clean;AsynchronousCommand:Clean;DataTypeUnification:Clean;SqlDialectAbstraction:Clean;EscapeFunctions:Clean;LocalSQL:Clean;VSE:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="FDConnectionComandosSQL:Make;FDConnectionTracingMonitoring:Make;FDConnectionMetadata:Make;FDConnectionAutoRecovery:Make;DataSetOrdenacao:Make;DataSetAggregates:Make;DataSetMacros:Make;Transacao_01:Make;Transacao_02:Make;ExceptionsUnified:Make;ExceptionsSimples:Make;ExceptionsView:Make;ExceptionFDSchemeAdapter:Make;CommandBatches:Make;ArrayDML:Make;Pooling:Make;AsynchronousCommand:Make;DataTypeUnification:Make;SqlDialectAbstraction:Make;EscapeFunctions:Make;LocalSQL:Make;VSE:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

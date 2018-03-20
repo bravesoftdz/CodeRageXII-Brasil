@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/21 16:16:37.000.321,\\Mac\Home\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\EC 2017\EC2017.groupproj</Transaction>
+    <Transaction>2018/03/09 20:35:24.000.859,C:\EC 2017\EC2017.groupproj=C:\EC 2017\CR 2018.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\EC 2017\Pooling\Pooling.dproj"/>
+	</Default.Personality>
+</BorlandProject>
