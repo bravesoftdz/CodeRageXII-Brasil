@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/15 03:20:38.000.223,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\Users\juliomar\Desktop\Demos\4 Datasnap\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2018/03/15 03:20:54.000.536,C:\Users\juliomar\Desktop\Demos\4 Datasnap\ProjectGroup1.groupproj=C:\Users\juliomar\Desktop\Demos\4 Datasnap\DatasnapFRCE.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\Cliente.dproj"/>
+	</Default.Personality>
+</BorlandProject>

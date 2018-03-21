@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/11 11:01:01.000.503,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/19 09:02:54.000.480,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/27 11:42:50.000.640,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 12:41:37.000.325,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/12 22:09:25.000.025,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 01:58:12.000.358,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 01:58:23.000.654,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/03/15 02:04:26.000.876,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\juliomar\Desktop\Demos\3 Com Dados\FireDAC\udmdados.pas</Transaction>
+    <Transaction>2018/03/15 02:04:26.000.876,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\juliomar\Desktop\Demos\3 Com Dados\FireDAC\udmdados.dfm</Transaction>
+    <Transaction>2018/03/15 02:04:52.000.220,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\juliomar\Desktop\Demos\3 Com Dados\FireDAC\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2018/03/15 02:04:52.000.220,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\juliomar\Desktop\Demos\3 Com Dados\FireDAC\ufrmPrincipal.pas</Transaction>
+    <Transaction>2018/03/15 02:05:11.000.471,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 02:05:27.000.189,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\juliomar\Desktop\Demos\3 Com Dados\FireDAC\ufrmReport.dfm</Transaction>
+    <Transaction>2018/03/15 02:05:27.000.189,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\juliomar\Desktop\Demos\3 Com Dados\FireDAC\ufrmReport.pas</Transaction>
+    <Transaction>2018/03/15 02:17:34.000.914,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\juliomar\Desktop\Demos\3 Com Dados\FireDAC\ComDadosFireDAC.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

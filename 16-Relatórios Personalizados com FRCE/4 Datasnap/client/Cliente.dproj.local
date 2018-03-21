@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/11 11:01:01.000.503,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/19 09:02:54.000.480,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/27 11:42:50.000.640,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 12:41:37.000.325,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/12 22:09:25.000.025,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 03:19:42.000.715,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 03:20:29.000.689,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\ufrmPrincipal.pas</Transaction>
+    <Transaction>2018/03/15 03:20:29.000.689,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2018/03/15 03:20:32.000.372,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\Project1.dproj</Transaction>
+    <Transaction>2018/03/15 03:21:11.000.952,C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\Project1.dproj=C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\Cliente.dproj</Transaction>
+    <Transaction>2018/03/15 03:22:33.000.930,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2018/03/15 03:22:34.000.169,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\client\ClientModuleUnit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

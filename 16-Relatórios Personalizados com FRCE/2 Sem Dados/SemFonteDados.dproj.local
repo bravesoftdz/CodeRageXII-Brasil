@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/11 11:01:01.000.503,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/19 09:02:54.000.480,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/27 11:42:50.000.640,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 12:41:37.000.325,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/12 22:09:25.000.025,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 01:40:07.000.192,=C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 01:40:34.000.402,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\juliomar\Desktop\Demos\2 Sem Dados\ufrmPrincipal.pas</Transaction>
+    <Transaction>2018/03/15 01:40:34.000.402,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\juliomar\Desktop\Demos\2 Sem Dados\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2018/03/15 01:45:07.000.527,C:\Users\juliomar\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\juliomar\Desktop\Demos\2 Sem Dados\SemDados.dproj</Transaction>
+    <Transaction>2018/03/15 01:45:23.000.315,C:\Users\juliomar\Desktop\Demos\2 Sem Dados\SemDados.dproj=C:\Users\juliomar\Desktop\Demos\2 Sem Dados\SemFonteDados.dproj</Transaction>
+    <Transaction>2018/03/15 01:45:29.000.512,=C:\Users\juliomar\Desktop\Demos\2 Sem Dados\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 01:46:53.000.225,C:\Users\juliomar\Desktop\Demos\2 Sem Dados\Unit1.pas=C:\Users\juliomar\Desktop\Demos\2 Sem Dados\ufrmReport.pas</Transaction>
+    <Transaction>2018/03/15 01:46:53.000.225,C:\Users\juliomar\Desktop\Demos\2 Sem Dados\Unit1.dfm=C:\Users\juliomar\Desktop\Demos\2 Sem Dados\ufrmReport.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/15 02:59:14.000.378,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\FormUnit1.pas</Transaction>
+    <Transaction>2018/03/15 02:59:14.000.644,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/03/15 02:59:21.000.905,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/03/15 02:59:25.000.859,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/03/15 03:00:10.000.347,C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\FormUnit1.dfm=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2018/03/15 03:00:10.000.347,C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\FormUnit1.pas=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\ufrmPrincipal.pas</Transaction>
+    <Transaction>2018/03/15 03:05:03.000.208,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\udmdados.pas</Transaction>
+    <Transaction>2018/03/15 03:05:03.000.452,=C:\Users\juliomar\Desktop\Demos\4 Datasnap\Server\ufrmReport.pas</Transaction>
+  </Transactions>
+</BorlandProject>
