@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/25 11:45:53.000.643,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\FormUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:45:58.000.720,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:45:58.000.863,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:45:59.000.897,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:46:00.000.966,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2018/02/25 11:46:00.000.982,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\json2.js</Transaction>
+    <Transaction>2018/02/25 11:46:00.000.942,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\base64.js</Transaction>
+    <Transaction>2018/02/25 11:46:00.000.999,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\callbackframework.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.277,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.119,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\callbackframework-min.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.553,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\images\expand.png</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.221,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.252,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\templates\reversestring.html</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.198,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\css\main.css</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.094,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.061,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\json2-min.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.045,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\base64-min.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.173,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.137,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\connection.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.030,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\js\serverfunctions.js</Transaction>
+    <Transaction>2018/02/25 11:46:01.000.521,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\images\collapse.png</Transaction>
+    <Transaction>2018/02/25 11:46:21.000.044,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\uFrmServer.pas=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\FormUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:46:21.000.044,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\uFrmServer.dfm=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\FormUnit1.dfm</Transaction>
+    <Transaction>2018/02/25 11:46:29.000.764,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\WM_Principal.dfm=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2018/02/25 11:46:29.000.764,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\WM_Principal.pas=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:46:44.000.033,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\uSCPrincipal.dfm=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2018/02/25 11:46:44.000.033,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\uSCPrincipal.pas=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:47:16.000.648,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\model.exemplo.pas=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/02/25 11:52:02.000.299,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Unit1.pas</Transaction>
+    <Transaction>2018/02/25 11:52:17.000.323,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Model\model.connection.pas=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Unit1.pas</Transaction>
+    <Transaction>2018/02/25 12:10:28.000.648,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Unit1.pas</Transaction>
+    <Transaction>2018/02/25 12:10:45.000.997,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Model\model.services.pas=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Unit1.pas</Transaction>
+    <Transaction>2018/02/25 12:20:16.000.104,=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Unit1.pas</Transaction>
+    <Transaction>2018/02/25 12:20:31.000.118,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\COMMOM\MODEL\model.lancamento.pas=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Unit1.pas</Transaction>
+    <Transaction>2018/03/10 11:14:13.000.454,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\SERVER.dproj=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\ServerApp.dproj</Transaction>
+    <Transaction>2018/03/10 11:14:16.000.533,D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\ServerApp.dproj=D:\Users\carre\OneDrive\CURSOS ONLINE\PAGOS\PROFESSIONAL DEVELOPER\PROJETO\SERVER\Server.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
